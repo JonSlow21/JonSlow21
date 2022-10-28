@@ -2,6 +2,8 @@
 [![Mail Badge](https://img.shields.io/badge/-aadityasaid@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aadityasaid@gmail.com)](mailto:aadityasaid@gmail.com)
 ---
 [![@eer's Holopin board](https://holopin.me/eer)](https://holopin.io/@eer)
+[![@eer's Holopin board](https://holopin.me/eer)](https://holopin.io/@eer)
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
