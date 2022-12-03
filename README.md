@@ -9,7 +9,7 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
-### I'm Aaditya Said
+### I'm Aaditya.
 
 - 🔭 Bachelor of Computer Science with Specialization in Artificial Intelligence and Data Science, India
 - 💬 Ask me about C++, Python and my projects on aadityasaid@gmail.com
